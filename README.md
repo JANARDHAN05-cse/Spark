@@ -1,5 +1,8 @@
 # Spark
-
+```
+Name : Janardhan P
+Reg No : 212224040128
+```
 ## Aim:
 Write a PySpark program to perform data analytics by loading a large dataset into Spark, cleaning it, and computing statistical summaries and aggregations.
 
